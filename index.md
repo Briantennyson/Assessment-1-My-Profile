@@ -1,37 +1,123 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Briantennyson/GitHub-Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1 style="background-color:Pink;">Assessment 1: My Profile</h1>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2 style="background-color:MistyRose;">Personal Information</h2>
+<p>s3782004@student.rmit.edu.au</p>
+<p>Brian Desmond Tennyson </p>
 
-```markdown
-Syntax highlighted code block
+<p>My name is Brian Tennyson, I was born and raised in Melbourne and currently reside in the southeast. My nationality is Australian and my ethnicity is Cambodian, I am fluent in English and not so fluent in Khmer (the Cambodian language).
+  Some background information, Cambodia is a small country located in Southeast Asia, right next to Vietnam and Thailand.
+  It is home to the largest religious monument in the world, Angkor Wat. The large temple was founded in the 12th century and measures a whopping 1,626,000 m2.
+  The temple is the country’s main tourist attraction and is also displayed on the country’s national flag.  I am pursuing a Bachelor of Digital Business at RMIT at the moment and work part-time and Supercheap Auto. When I am not working or studying,
+  maybe two or three times a year I take my car to the racetrack along with other car and race enthusiasts. I recently retired my daily road car on the track, which was great fun short term. Three of my mates and I have pulled together our money to share a Mazda MX-5 1990.
+  We have many plans for the car and cannot wait for the current health crisis to end, to resume our passion for cars. Besides a love for everything automotive, I also enjoy badminton and competitive online gaming such as the popular Valorant.  </p>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<h2 style="background-color:MistyRose;">Interest in IT</h2>
+<h3>What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).</h3>
+<p>Information technology has always fascinated me, at the moment my interest lies in website development and IT diagnosis and security. My interest for IT started when family members introduced me to bitcoins and the mining process as well as simple IT such as
+  online gaming, has encouraged me to further explore the IT. So, family events initially perked my interest in information technology. My current IT interest lies in website and IT value creation as well as IT support and security, all of which I plan to study in future.
+  I hardly have any IT experience, I am however taking additional IT classes and self-learning to complement. </p>
 
-1. Numbered
-2. List
+<h3>Why did you choose to come to RMIT? </h3>
+<p>After careful research, I chose to study at RMIT because the university was able to meet my budget and education criteria. RMIT had the courses I was interested and cost wise was cheaper relative to other universities in the area. RMIT was also one of the
+  largest universities in terms of population and geography and this alluded me to enrol here because of its greater diversity. </p>
 
-**Bold** and _Italic_ and `Code` text
+<h3>What do you expect to learn during your studies?</h3>
+In my Bachelor of Digital Business course, I expect to learn a great mix of business and IT techniques. In business I gained skills such as accounting and generating value for businesses and the IT aspects I am currently studying. Ideally, I would love to
+learn more about computer language, IT support and security and website development. I feel that businesses today and in the future will require skilled individuals in these areas.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h2 style="background-color:MistyRose;">Ideal Job</h2>
+<p>The ideal job for me would be a position as a software engineer. This job is attractive to me because of the relatively high salary and the challenging learning curve that it offers. In many software engineer job descriptions, they ask for experience
+   in automated testing, DevOps, have built cloud infrastructure and experience or wiliness to learn “React/Java/C#/Python/Algorithms/Automation/DevOps.”
+Listed above is the required experience ideal candidates should have before applying for the job, many job ads however did not specify the need for bachelors or masters degree in Information technology or computer science. I believe that having these
+certificates will help candidates when applying. It appears today that many companies hold candidate experience higher than any degree. The experience requirements outlined earlier was from a Coles Software Engineer job ad. Currently I am in no position
+to apply for such a job but after completing my undergraduate and self-learning IT classes at home, hopefully in the future I will be ready for my ideal job.
 
-### Jekyll Themes
+My experience in IT at the moment is miniscule, my plan at the moment is to complete this business degree and then complete a Masters of IT. And  if I choose not go after a masters degree due to financial reasons, I will undertake the bachelor of Information
+Technology in order to broaden my experience. I believe that for me to become an ideal candidate for my ideal job I would require extensive learning at university as well as building upon my current IT experiences at home/self learning.
+</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Briantennyson/GitHub-Pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a href="https://briandtennyson.wixsite.com/mysite">Image of Ideal Job Here</a>
 
-### Support or Contact
+<h2 style="background-color:MistyRose;">Personal Profile – 3 Personality Tests</h2>
+<h3>Results of Myer-Briggs Test (1st test)</h3>
+<p>These results showcase that I am highly energetic and extraverted. I can agree with the test on that point. I feel as though I am more observant than what the test describes me as. I am a people person and I believe that finding the balance between
+  thinking logically and trusting your feelings is vital in any workplace.
+These results have simply added to my self-awareness in considering how extraverted and assertive I am in real life.
+In a team these results would lead me to believe I would be appropriate for a leadership position. And if a not, a strong team member to help reach team goals.
+When forming a team I should seek team members who are a direct opposite of my ‘people mastery.’ So logical thinkers who are often more conservative relative to my frame. I want to learn how to interact with a range of different team members and not
+simply those who are similar to me.
+</p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://www.16personalities.com/esfj-personality">Results of Myer-Briggs personality test</a>
+
+<h3>Results of an online learning style test: Memletics Learning Styles (2nd test)</h3>
+<p>The result of a 70 long questionnaire has assumed me to be of The “Verbal (Linguistic) Learning Style”. This means that I enjoy learning from word of mouth and written language. This test describes verbal learners as easy to express themselves,
+  they love reading and writing, tongue twisters and rhymes are their ‘thing.’ Verbal learners also have a vast and great understanding or words and make the effort to understand new words and phrases when speaking to other people.
+These results define me up to a point. I find it easy to express myself and talk to other people even if they are strangers. I do enjoy tongue twisters, rhymes, puns and other play on words. I however, do not enjoy reading or writing.
+In a team environment I would find it easy to express my ideas to others and I think I would be able to communicate easily with other team members, especially when we need to work together. Additionally, when there is a decent leader who can
+properly communicate his needs, I can satisfy their requests when problems are communicated appropriately to me.
+When forming a team, I would aim to not drown out other types of learners, who may by more quieter or require visual or physical learning to help them complete their assigned tasks. I learn things quickly through good communication,
+but in a team environment, I need to find it within myself to help those around me who may still be struggling with the tasks assigned.
+</p>
+
+<a href="https://www.learning-styles-online.com/style/verbal-linguistic/">Results of Memletics Learning Styles Questionnaire </a>
+
+<h3>Results of one further online test of your choosing: Personality Perfect (3rd test)  </h3>
+<p>Once again, this test showed similar results to the Myer-Briggs personality test. The main takeaway from this test was that it described me as a people person who is influential and charismatic.
+In these results there was a strong emphasis on balance. I feel that this was also my main takeaway from this test. ENFJs find pleasure in the company of others but also enjoy time alone doing their own thing. This was highly accurate
+and is a statement I would with on any occasion not just enjoying other company and alone time. There needs to be a balance with everything, too much of any one thing even a good thing could be harmful.
+In a team environment, ENFJs are loyal and genuine. In a team environment I learn not only by helping myself but by also helping my team members.
+When looking for a team, again I want to connect with a variety of people. Its easy to connect with people similar to me, but I want to challenge myself. Step outside of my comfort zone and I feel working with people very different
+from me, is where I honestly learn the most.
+</p>
+
+<a href="https://www.personalityperfect.com/test/free-personality-test/3nbx6d960d12589f555e116da3decf30bb802 ">Results of Personality Perfect</a>
+
+<h2 style="background-color:MistyRose;">Project Ideas</h2>
+<h3>Overview </h3>
+<p>An IT project that I have in mind would be an e-commerce based AI shopping system. This AI website bot only activates when customers sign up on said website. The customer is registered and the website AI is deployed to
+  analyse the likes, interests and product clicks that the customer initiates. From this information, when specific goods are searched on the website, specific or similar products appear to what the customer was initially
+  looking for. The aim is to suggest exact or similar products to what the customer is looking for in order to increase online sales. </p>
+
+<h3>Motivation  </h3>
+<p>This AI shopping system is interesting, because not only does it simply gather useful data, the program takes it a step further. It utilises the information gathered in order to recommend products that make people go
+  ‘oh yes I might need that too’ or ‘I was looking for that but forgot what it was called.’ This type of AI is intended to increase the customer experience and make a greater shopping experience. </p>
+
+<h3>Features  </h3>
+<p>Window shoppers or guest shoppers can complete their online shopping as per normal. Although their data is collected by the website AI, it is not implemented to facilitate their shopping experience, because they
+  have not signed up to the membership. However, members who sign up to membership on said site, can allow the AI shopping system to analyse their shopping data to recommend user-specific items they may be interested in.
+  For example the registered customer may have come to the e-commerce store to purchase a scarf for the winter. The website shows off its selection of scarves and in addition, neck warmers. Although the customer was not
+  looking for neck warmers, the two products are very similar and the customer may be persuaded to buy the more expensive neck warmer. In another scenario the customer may be tempted to get one of each, a scarf and a neck warmer.
+  I feel that collecting accurate information is very important here. The AI system needs to realise exactly what a scarf is and what other store products are most similar if any. The AI needs to learn what products might
+  complement each other or products that might be able to up sale a product such as the cheap scarf versus the more expensive neck warmer. Or in the ideal situation, both! The aim is to not simply recommend random products,
+  but relevant products to what they are purchasing/seeking to purchase. When registered customers search for specific items in the search bar, the AI has an opportunity to recommend similar items based on their
+  previous searches/purchases. This increases the likelihood of a sale plus the original item they came online to purchase. The AI has another opportunity to suggest recommended products at the checkout. Again using past
+  user data to suggest items relevant to that specific customer. The goal of such an AI system is to increase the shopping experience for website members and gives the business the opportunity to up sale or complement products
+  in order to increase business revenue. </p>
+
+<h3>Project drawbacks  </h3>
+<p>AI is a rapidly expanding area in technology and to implement such complex software into an e-commerce website may be daring. For a business to actively develop such software, a considerable amount of money should
+  be spent into R & D in order to bring such a complex project to life. Cost is one the biggest factors in this project, the business would need to hire a highly qualified individual or team to build an AI system which
+  gathers shopping data and implements the data quickly and accurately in a short span of time. Another drawback could be usability. This project sounds great on paper, but design and AI usability for customers should
+  be accessible. The business should make sure the AI is compatible with users and does not interfere with the shopping experience. I think it would be easy to throw a heap of recommended products at customers and overwhelm them.
+  The project needs to help customers not deter them. </p>
+
+<h3>Tools and technologies </h3>
+<p>Some technologies that will be required to make this project work would be items such as a reliable server/domain to host the AI platform on. As well as a sturdy website with enough storage to cater for web traffic.
+  A reliable internet connection and computer would also be necessary to ensure the website and AI system stays up and running. And if there are any issues or bugs, that they be fixed promptly. </p>
+
+<h3>Skills required  </h3>
+<p>Some skills that would be required to make this project work could be an employee who is knowledgeable with AI or Information technologies. A person in IT can easily handle the workings of the website. The new AI system
+  however may be a hand full to implement and work properly. Due to website AI growing every day, much R & D may have to be invested in order to for competent employees to fully incorporate the AI system into
+  the business e-commerce site. </p>
+
+<h3>Outcome  </h3>
+<p>Once the AI system has been successfully integrated into the online website, shopping data will be collected from both registered and non-registered shoppers. However, only registered shoppers will make use of the AI.
+  The outcome of the AI is that it could lift business sales by recommending specific and relevant products to specific users. This in turn increases the likelihood of lifting online sales and units per sale. </p>
+
+<h2 style="background-color:MistyRose;">End of work</h2>
